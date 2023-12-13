@@ -1,0 +1,21 @@
+- age. Age of customer (numeric)
+- job. Type of job (categorical)
+- marital. Marital status (categorical)
+- education. Level of education (categorical)
+- default. do you currently have credit (categorical) 6. housing.
+- housing. do you have a housing loan (categorical) 7. loan.
+- loan. Do you have a personal loan? (categorical)
+- contact. Type of contact communication (categorical)
+- month. Last month in which you have been contacted (categorical)
+- day_of_week. Last day on which you have been contacted (categorical)
+- duration. Duration of previous contact in seconds (numeric)
+- campaign. Number of contacts made during this campaign to the customer (numeric)
+- pdays. Number of days that elapsed since the last campaign until the customer was contacted (numeric)
+- previous. Number of contacts made during the previous campaign to the customer (numeric)
+- poutcome. Result of the previous marketing campaign (categorical).
+- emp.var.rate. Employment variation rate. Quarterly indicator (numeric)
+- cons.price.idx. Consumer price index. Monthly indicator (numeric)
+- cons.conf.idx. Consumer confidence index. Monthly indicator (numeric)
+- euribor3m. EURIBOR 3-month rate. Daily indicator (numeric)
+- nr.employed. Number of employees. Quarterly indicator (numeric)
+- y. TARGET. Whether the customer takes out a long-term deposit or not
